@@ -1,6 +1,10 @@
         body{
             background-color: #f5f5f5;
         }
+p{
+	font-style:italic;
+	text-align:right;
+}
         .container {
         border: 2px solid #ccc;
         background-color: white;
